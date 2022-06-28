@@ -1,6 +1,6 @@
 # Todo List com TS ✅
 
-## ⚙️Ferramentas Usadas
+## ⚙️ Ferramentas Usadas
 
 * HTML
 * CSS
